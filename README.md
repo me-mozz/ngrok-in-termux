@@ -7,7 +7,7 @@ How To Install Ngrok in Termux
 ### how to install
 
 ```bash
-Pkg update && pkg upgrade
+pkg update && pkg upgrade
 ```
 ```bash
 pkg install git wget tar
