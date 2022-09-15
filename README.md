@@ -15,3 +15,6 @@ pkg install git wget tar
 ```bash
 wget https://raw.githubusercontent.com/me-mozz/ngrok-in-termux/main/ngrok.sh
 ```
+```bash
+bash ngrok.sh
+```
