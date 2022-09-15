@@ -1,7 +1,7 @@
 <h1 align="center">Install ngrok in termux</h1>
 
 
-###how to install
+### how to install
 
 ```bash
 Pkg update && pkg upgrade
