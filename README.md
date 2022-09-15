@@ -1,13 +1,14 @@
 <h1 align="center">Install ngrok in termux</h1>
 
 
-#install
+###how to install
+
 ```bash
 Pkg update && pkg upgrade
 ```
 ```bash
-pkg install git
+pkg install git wget tar
 ```
 ```bash
-git clone https://github.com/me-mozz/ngrok-in-termux
+wget https://raw.githubusercontent.com/me-mozz/ngrok-in-termux/main/ngrok.sh
 ```
