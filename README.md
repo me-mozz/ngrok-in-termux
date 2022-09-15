@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/me-mozz/wahahahahah/main/me-mozz.png?token=GHSAT0AAAAAABYWE7SZHZ4TRBWRMO3AS6NCYZCUJSA" height="60"><br>
+<img src="https://raw.githubusercontent.com/me-mozz/wahahahahah/main/me-mozz.png" height="60"><br>
 How To Install Ngrok in Termux
 </p>
 
