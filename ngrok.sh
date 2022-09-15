@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 clear
 pkg install figlet
-Clear
+clear
 figlet By Mozz
 echo " "
 echo "Assalamu’alaikum Warahmatullahi Wabarakatuh"
@@ -19,10 +19,10 @@ echo "Saya Tunggu 10 detik ( I wait 10 seconds )"
 sleep 10
 clear
 echo "Masukkan Access Token Ngrok ( Enter authentication ) "
-echo "Your Authtoken : " read token
+read -p "Your Authtoken : " Token
 sleep 02
 clear
-ngrok config add-authtoken $token #set Authtoken
+ngrok config add-authtoken $Token #set Authtoken
 ngrok update #check ngrok update
 ngrok http 80 #run
 
